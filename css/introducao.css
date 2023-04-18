@@ -70,7 +70,9 @@
   .introducao{
     grid-template-columns: 1fr;
   }
-  
+  .introducao img{
+    display: none;
+  }
   .introducao h1::before{
     width: 30px;
     height: 10px;
